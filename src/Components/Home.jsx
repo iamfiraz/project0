@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react'
 
 const Home = () => {
@@ -11,3 +12,14 @@ const Home = () => {
 }
 
 export default Home
+=======
+import React from 'react'
+
+const home = () => {
+  return (
+    <div>home</div>
+  )
+}
+
+export default home
+>>>>>>> 34b462428df1be77d707debe4a7d3dd3479b6a75
