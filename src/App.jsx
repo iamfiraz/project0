@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <img src="ktu.png" alt="img 1" height></img>
+      <img src="ktu.png"></img>
 
          <Navbar />
       <Routes>
