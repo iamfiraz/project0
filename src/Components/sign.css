@@ -7,7 +7,7 @@
 }
 
 .signup-form {
-  background-color: rgb(221, 220, 222);
+  background-color: #ffffff;
   padding: 40px;
   border-radius: 12px;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
@@ -24,13 +24,14 @@
   font-family: 'Georgia',serif;
   font-weight: bold;
   
+  
 }
 
 .signup-button {
   margin-top: 20px;
-  background-color: #ffffff;
+  background-color: #bfbae1;
 }
 
 .signup-button:hover {
-  background-color: #f6f5fb;
+  background-color: #4b4762;
 }
